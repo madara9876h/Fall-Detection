@@ -1,4 +1,4 @@
-Got it 😅 — here’s your entire **README.md** in one single code cell, no breaks, ready to paste straight into GitHub:
+
 
 ```markdown
 # 🧑‍🦳 Elderly Fall Detection using OpenCV + Mediapipe  
